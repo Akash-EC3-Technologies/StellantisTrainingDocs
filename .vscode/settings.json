@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "gpio_if.h": "c",
+        "can_if.h": "c"
+    }
+}

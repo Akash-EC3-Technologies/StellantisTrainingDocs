@@ -1,0 +1,2 @@
+python-can>=4.2
+gpiod==2.2.3
